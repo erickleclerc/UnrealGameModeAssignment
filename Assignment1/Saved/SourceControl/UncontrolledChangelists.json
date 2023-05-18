@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/var05erick/Documents/UnrealGameModeAssn/Assignment1/Content/Blueprints/LivesAvailable.uasset",
+				"C:/Users/var05erick/Documents/UnrealGameModeAssn/Assignment1/Content/Blueprints/MyCustomGameMode.uasset",
+				"C:/Users/var05erick/Documents/UnrealGameModeAssn/Assignment1/Content/Blueprints/PlayerWidget.uasset",
 				"C:/Users/var05erick/Documents/Unreal Projects/Assignment1/Content/Blueprints/WidgetMenu.uasset",
 				"C:/Users/var05erick/Documents/Unreal Projects/Assignment1/Content/Blueprints/MyCustomGameMode.uasset",
 				"C:/Users/var05erick/Documents/Unreal Projects/Assignment1/Content/FirstPerson/Maps/FirstPersonMap.umap",
